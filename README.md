@@ -4,6 +4,9 @@ Usage:
 ======
 
   sed 's/\/home\/xpahos\/yocto\/morty/<$PWD>/g' build/conf/bblayers.conf
+  
   sed 's/\/home\/xpahos\/yocto\/morty/<$PWD>/g' build//conf/sanity_info
+  
   source poky/oe-init-build-env build
+  
   bitbake core-image-minimal
