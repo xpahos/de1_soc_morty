@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/xpahos/yocto/morty/build/tmp
+SSTATE_DIR /home/xpahos/yocto/morty/build/sstate-cache
+NATIVELSBSTRING Ubuntu-14.04
